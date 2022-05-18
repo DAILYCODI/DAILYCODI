@@ -1,0 +1,29 @@
+using System;
+
+//praticed 05/18/2022
+
+namespace FavoriteNumber
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      // Ask user for fave number
+      Console.Write("Enter your favorite number!: ");
+
+        // Attempt 1: use implicit conversion
+      // int faveNumber = Console.ReadLine();
+      
+      // Attempt 2: use explicit conversion
+      // int faveNumber = (int)Console.ReadLine();
+
+      //This method takes a string and outputs an integer.
+            // Attempt 3: use Convert method
+  int faveNumber = Convert.ToInt32(Console.ReadLine());
+      // Turn that answer into an int
+
+
+
+    }
+  }
+}
