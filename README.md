@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DAILYCODI
-- 👀 I’m interested in Robotics Process Automation, Site - Reliability Engineering
-- 🌱 I’m currently learning C#, VB.NET
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development, Robotics Process Automation
+- 🌱 I’m currently learning Python, C, UiPath
+- 💞️ I’m looking to collaborate on websites and projects ...
 - 📫 How to reach me @DAZARUSC@gmail.com
 
 <!---
